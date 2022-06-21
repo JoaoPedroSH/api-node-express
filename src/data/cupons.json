@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "cod_cupom": "Primeiro",
+      "tipo": "ANUNCIANTE",
+      "valor": "10000",
+      "valor_min": "40",
+      "cupom_publico": "sim",
+      "desc_cupom": "Cupom de Primeiro Anuncio"
+    },
+    {
+      "id": "2",
+      "cod_cupom": "Segundo",
+      "tipo": "PARCEIRO",
+      "valor": "20000",
+      "valor_min": "40",
+      "cupom_publico": "sim",
+      "desc_cupom": "Cupom de Segundo Anuncio"
+    }
+]
