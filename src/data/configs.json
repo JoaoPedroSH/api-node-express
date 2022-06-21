@@ -1,0 +1,7 @@
+{
+    "general_campanha_minDailyCreditValue": 5,
+    "general_campanha_minCreditValue": 30,
+    "general_payments_boleto_enabled": 1,
+    "general_payments_paypal_enabled": 1,
+    "general_payments_pix_enabled": 1
+}
